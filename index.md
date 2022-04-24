@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](Visualisasi_dengan_Matplotlib.ipynb)
+[Project 1 Title](Dummy.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
